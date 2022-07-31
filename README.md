@@ -13,7 +13,6 @@ Este proyecto utiliza la herramienta [Simics](https://www.intel.com/content/www/
 - [Cosas por hacer](#-cosas-por-hacer)
 - [Autores, licencia](#-autores)
 
-
 ## 📦 Guía de compilación
 
 Primeramente es necesario clonar el repositorio:  
@@ -94,26 +93,9 @@ Es la forma en la que comunica el dispositivo con el driver, se implementará se
 - [ ] Pruebas de validación 
 - [ ] Protocolo
 
-## Habilidades y conocimientos necesarios
-- Adquirir facilidad de programar en lenguaje ensamblador.
-- Procesamiento y codificación de imágenes.
-- Especificaciones y estructura de los archivos BMP.
-- Mejor manipulación de Simics para adquirir comodidad al utilizarlo.
-- Experiencia en desarrollo de aplicaciones que mezclen código de alto nivel con lenguaje ensamblador.
-- Tener una mejor comprensión de la estructura PCI y su funcionamiento.
-
 ## 👤 Autores
 Oscar Quesada Webb
 - oscar.quesadawebb@ucr.ac.cr
-
-
-David Sánchez López
-- david.sanchezlopez@ucr.ac.cr
-
-
-Esteban Porras Herrera
-- esteban.porrasherrera@ucr.ac.cr
-
 
 ## 📝 Licencia
 Este repositorio tiene una licencia [MIT](LICENSE)
